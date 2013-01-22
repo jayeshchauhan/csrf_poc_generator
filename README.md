@@ -5,4 +5,8 @@ Create a PoC for CSRF attacks in a split second. Right click any log and run thi
 CSRFPOCGenerator Screenshots
 ============================
 
+<<<<<<< HEAD
 ![ Module Intro ] (jayeshchauhan/github.com/csrf_poc_generator/image1.jpg)
+=======
+![ Module Intro ] (jayeshchauhan/github.com/csrf_poc_generator/image1.PNG)
+>>>>>>> 50787632254b48ac4a081941713dc8ef8d2949ee
