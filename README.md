@@ -1,7 +1,7 @@
 About
 =====
 <<<<<<< HEAD
-Create a PoC for CSRF attacks in a split second. Select any log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.
+Create a PoC for CSRF attacks in a split second. Right click any log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.
 =======
 Create a PoC for CSRF attacks in a split second. Select any request log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.
 >>>>>>> 2080d1ce5795b36cbe74f0658f407e8d7ddf79aa
