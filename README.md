@@ -22,5 +22,5 @@ Steps to use
 CSRFPOCGenerator Screenshots
 ============================
 
-![Grinder Server Screenshot 1](https://github.com/jayeshchauhan/csrf_poc_generator/blob/master/image1.PNG "Grinder Server Screenshot 1")
+![Grinder Server Screenshot 1](https://raw.github.com/jayeshchauhan/csrf_poc_generator/blob/master/image1.PNG "Grinder Server Screenshot 1")
 
