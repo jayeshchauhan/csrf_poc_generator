@@ -1,6 +1,6 @@
 About
 =====
-Create a PoC for CSRF attacks in a split second. Right click any log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.
+Create a PoC for CSRF attacks in a split second. Select any log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.
 
 
 Features
@@ -22,5 +22,5 @@ Steps to use
 CSRFPOCGenerator Screenshots
 ============================
 
-![Grinder Server Screenshot 1](https://raw.github.com/jayeshchauhan/csrf_poc_generator/blob/master/image1.jpg)
+![](https://github.com/jayeshchauhan/csrf_poc_generator/blob/master/image1.JPG)
 
