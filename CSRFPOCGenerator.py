@@ -1,5 +1,5 @@
 #
-# Copyright 2011-2013 Lavakumar Kuppan
+# Copyright 2013 Jayesh Singh Chauhan
 #
 # This file is part of CSRFPOCGenerator
 #
