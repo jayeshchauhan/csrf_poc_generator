@@ -24,6 +24,7 @@ CSRFPOCGenerator Screenshots
 
 ![CSRFPOCGenerator Screenshot 0](https://github.com/jayeshchauhan/csrf_poc_generator/blob/master/image0.JPG "Screenshot 0")
 
+
 ![CSRFPOCGenerator Screenshot 1](https://github.com/jayeshchauhan/csrf_poc_generator/blob/master/image1.JPG?raw=true "Screenshot 1")
 
 
