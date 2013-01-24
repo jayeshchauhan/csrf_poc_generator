@@ -12,7 +12,7 @@ Features
 
 Steps to use
 ============
-*	Set IronWASP as proxy.
+*	Set IronWASP as proxy. [r2h]:http://ironwasp.org
 *	Traverse through the flows to be exploited (using the browser) , so the logs will be captured in IronWASP's Proxy Logs.
 *	Right click any log and Goto "Run Modules on this Request/Response" -> Exploitation -> CSRF PoC Generator.
 *	It generates the HTML code to exploit CSRF vulnerability and saves it the location specified.
